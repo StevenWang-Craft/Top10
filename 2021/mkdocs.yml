@@ -44,6 +44,7 @@ plugins:
         ja: 日本語
         fr: Français
         pt_BR: Português (Brasil)
+        zh_simplified: 简体中文
         zh_TW: 繁體中文
 
       nav_translations:
@@ -136,6 +137,25 @@ plugins:
           A05 Security Misconfiguration: A05 Configuração Incorreta de Segurança
           A06 Vulnerable and Outdated Components: A06 Componentes Vulneráveis e Desatualizados
           Next Steps: Próximos passos
+        zh_simplified:
+          Home: 首页
+          Notice: 注意事项
+          Introduction: 介绍
+          About OWASP: 关于
+          How to use the OWASP Top 10 as a standard: 如何使用 OWASP Top 10标准
+          How to start an AppSec program with the OWASP Top 10: 如何使用 OWASP Top 10 创建应用程序安全程序
+          Top 10:2021 List: Top 10:2021 列表
+          A01 Broken Access Control: A01 失效的访问控制
+          A02 Cryptographic Failures: A02 加密失败
+          A03 Injection: A03 注入
+          A04 Insecure Design: A04 不安全的设计
+          A05 Security Misconfiguration: A05 安全配置错误
+          A06 Vulnerable and Outdated Components: A06 易受攻击和过时的组件
+          A07 Identification and Authentication Failures: A07 认证和授权失败
+          A08 Software and Data Integrity Failures: A08 软件和数据完整性故障
+          A09 Security Logging and Monitoring Failures: A09 安全日志记录和监控失败
+          A10 Server Side Request Forgery (SSRF): A10 服务器端请求伪造 (SSRF)
+          Next Steps: 下一步
         zh_TW:
           Home: 首頁
           Notice: 注意事項
